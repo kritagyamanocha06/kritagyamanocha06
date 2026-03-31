@@ -1,5 +1,8 @@
-## Hi there 👋
-
+Name-KRITAGYA MANOCHA 
+Reg.No- 25BAI10186
+CSE(AI&ML) 1stYear
+VITB'29 
+I hope to master coding ,learn machine learning and deep dive in the fields of AI, Deep learning and neural networks  
 <!--
 **kritagyamanocha06/kritagyamanocha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
